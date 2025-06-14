@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Muhammad Ammar Saleem 👋</h1>
+<p align="center">
+  Computer Science student at GIK Institute | Problem Solver | AI Enthusiast
+</p>
 
-<!--
-**DracoRaiden/DracoRaiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍🎓 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I'm a **second-year Computer Science undergraduate** at **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology**, Topi, Swabi, Pakistan
+- 📈 Maintained a **CGPA above 3.5** and have been listed on the **Dean’s Honor List multiple times**
+- 💡 Currently exploring **Artificial Intelligence** with a focus on **Machine Learning and Deep Learning**
+- 🧠 Built various projects to strengthen my fundamentals in **C++**, **Python**, and **SQL**
+- 📬 Reach me at: **ammarsaleem9117@gmail.com** | [LinkedIn](https://www.linkedin.com/in/am4b44b8273)
+
+---
+
+### 🧰 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-181717?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Flex(Lexical)-FF6F00?style=flat"/>
+  <img src="https://img.shields.io/badge/-Verilog-00B2EE?style=flat"/>
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DracoRaiden&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DracoRaiden&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+### 🚀 Projects Showcase
+
+Check out some of my key projects:
+- 🔗 [Lexical Analyzer for C/C++ using Flex](https://github.com/DracoRaiden/your-repo-link)  
+- 🔗 [Python + PostgreSQL Database Manager](https://github.com/DracoRaiden/your-repo-link)  
+- 🔗 [Verilog + Proteus COAL Simulation](https://github.com/DracoRaiden/your-repo-link)  
+(*Replace `your-repo-link` with the actual links once uploaded*)
+
+---
+
+### 🙋‍♂️ Fun Facts
+
+- 🧩 I'm a natural **problem-solver** who enjoys tackling challenges head-on
+- 🏸 I enjoy **sports**, love **music**, and often go out with friends to recharge
+- 🤝 Always open to **collaboration** on student-led or open-source tech projects
+
+---
+
+> “The beautiful thing about learning is nobody can take it away from you.” — B.B. King
