@@ -40,10 +40,9 @@
 ### 🚀 Projects Showcase
 
 Check out some of my key projects:
-- 🔗 [Lexical Analyzer for C/C++ using Flex](https://github.com/DracoRaiden/your-repo-link)  
-- 🔗 [Python + PostgreSQL Database Manager](https://github.com/DracoRaiden/your-repo-link)  
-- 🔗 [Verilog + Proteus COAL Simulation](https://github.com/DracoRaiden/your-repo-link)  
-(*Replace `your-repo-link` with the actual links once uploaded*)
+- 🔗 [Quantum-Chessmaster](https://github.com/DracoRaiden/Quantum-Chessmaster)  
+- 🔗 [C++ Tokenizer (Lexical Analyzer using Flex)](https://github.com/DracoRaiden/C-Lexer-Analyzer-with-UI)  
+- 🔗 [Khata – Restaurant Management System](https://github.com/DracoRaiden/Khata-Restaurant-Management-System-)  
 
 ---
 
