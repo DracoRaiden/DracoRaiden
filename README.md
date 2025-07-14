@@ -10,7 +10,7 @@
 - 🎓 I'm a **second-year Computer Science undergraduate** at **Ghulam Ishaq Khan Institute of Engineering Sciences and Technology**, Topi, Swabi, Pakistan
 - 📈 Maintained a **CGPA above 3.5** and have been listed on the **Dean’s Honor List multiple times**
 - 💡 Currently exploring **Artificial Intelligence** with a focus on **Machine Learning and Deep Learning**
-- 🧠 Built various projects to strengthen my fundamentals in **C++**, **Python**, and **SQL**
+- 🧠 Built various projects to strengthen my fundamentals in **C++**, **Python**, **SQL**, **HTML**, **CSS**, and **JavaScript**
 - 📬 Reach me at: **ammarsaleem9117@gmail.com** | [LinkedIn](https://www.linkedin.com/in/am4b44b8273)
 
 ---
@@ -40,9 +40,9 @@
 ### 🚀 Projects Showcase
 
 Check out some of my key projects:
-- 🔗 [Quantum-Chessmaster](https://github.com/DracoRaiden/Quantum-Chessmaster)  
-- 🔗 [C++ Tokenizer (Lexical Analyzer using Flex)](https://github.com/DracoRaiden/C-Lexer-Analyzer-with-UI)  
-- 🔗 [Khata – Restaurant Management System](https://github.com/DracoRaiden/Khata-Restaurant-Management-System-)  
+- 🔗 [♟️ Quantum Chessmaster in C++](https://github.com/DracoRaiden/Quantum-Chessmaster)  
+- 🔗 [🌐 Currency Converter – Real-time Web App using HTML, CSS, and JS💱)](https://github.com/DracoRaiden/currencyConverter)  
+- 🔗 [Khata – Restaurant Management System in Python](https://github.com/DracoRaiden/Khata-Restaurant-Management-System-)  
 
 ---
 
