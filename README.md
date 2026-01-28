@@ -20,6 +20,7 @@
 - 🚀 **Hackathon Winner** (HackGit 2025) & **Silver Medalist** in Badminton.
 - 🤝 Tech Head at **CDES**, organizing large-scale student events and digital strategies.
 
+Check Out my **[Portfolio](https://my-portfolio-chi-six-79.vercel.app/)**
 ---
 
 ### 🧰 Tech Stack
